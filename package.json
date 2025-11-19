@@ -1,7 +1,7 @@
 {
   "name": "proof-inscribed-semicircles",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://vksepm.github.io/visual-proof-inscribed-semicircles/",
   "type": "module",
   "scripts": {
