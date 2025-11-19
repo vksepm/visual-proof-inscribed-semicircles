@@ -1,0 +1,5 @@
+{
+  "name": "React Gemini Starter",
+  "description": "A modern, high-performance React 18 + TypeScript application scaffold using Tailwind CSS, pre-configured for Google Gemini API integration.",
+  "requestFramePermissions": []
+}
